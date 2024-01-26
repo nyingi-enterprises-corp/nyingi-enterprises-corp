@@ -1,4 +1,4 @@
-### Hi there 👋
+### Placeholder for future website. 👋
 
 <!--
 **nyingi-enterprises-corp/nyingi-enterprises-corp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
